@@ -1,0 +1,22 @@
+/* body{
+    background-color: rgb(182, 158, 21);
+} */
+.nav-bar{
+   position: fixed;
+   top: 0;
+   width: 100%;
+   overflow: hidden;
+}
+/* 
+hr {
+    width: 20%;
+    border-style: dotted none none;
+    border-width: 5px;
+    height: 0;
+    border-color: grey;
+    
+} */
+
+.header {
+    padding: 50px 100px 0px 150px;
+}
